@@ -9,5 +9,4 @@
 - https://opengameart.org/
 
 ## Example
-![image](https://github.com/user-attachments/assets/a43ac71b-ff48-4206-8678-0eea06a8bfb6)
-
+![Tap Game](https://github.com/user-attachments/assets/5097373d-cf76-4991-9858-63727cae87e3)
